@@ -1,0 +1,36 @@
+name: Update README and Index
+
+on:
+  push:
+    paths:
+      - 'data.json'
+
+jobs:
+  update_files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # Add any other dependencies here
+
+      - name: Run write_html.py
+        run: python ./scripts/write_html.py
+
+      - name: Run write_md.py
+        run: python ./scripts/write_md.py
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Automatically update README and index.html'
+          branch: main
+          file_pattern: README.md index.html

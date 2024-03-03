@@ -1,0 +1,399 @@
+[
+    {
+        "Title": "Scalable Diffusion Models with Transformers",
+        "Link": "https://arxiv.org/abs/2212.09748",
+        "Initial Date": "19 Dec 2022",
+        "Venue": "ICCV'2023",
+        "Task": ["Image"],
+        "Resource": {
+            "Website": "https://www.wpeebles.com/DiT",
+            "Code": "https://github.com/facebookresearch/DiT"
+        }
+    },
+    {
+        "Title": "All are Worth Words: A ViT Backbone for Diffusion Models",
+        "Link": "https://arxiv.org/abs/2209.12152",
+        "Initial Date": "25 Sep 2022",
+        "Venue": "CVPR'2023",
+        "Task": ["Image"],
+        "Resource": {
+            "Code": "https://github.com/baofff/U-ViT"
+        }
+    },
+    {
+        "Title": "Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers",
+        "Link": "https://arxiv.org/abs/2401.11605",
+        "Initial Date": "21 Jan 2024",
+        "Venue": "arXiv",
+        "Task": ["Image"],
+        "Resource": {
+            "Website": "https://crowsonkb.github.io/hourglass-diffusion-transformers/",
+            "Code": "https://github.com/crowsonkb/k-diffusion"
+        }
+    },
+    {
+        "Title": "Learning to Learn with Generative Models of Neural Network Checkpoints",
+        "Link": "https://arxiv.org/abs/2209.12892",
+        "Initial Date": "26 Sep 2022",
+        "Venue": "arXiv",
+        "Task": ["Others"],
+        "Resource": {
+            "Website": "https://www.wpeebles.com/Gpt.html",
+            "Code": "https://github.com/wpeebles/G.pt"
+        }
+    },
+    {
+        "Title": "GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation",
+        "Link": "https://arxiv.org/abs/2312.04557",
+        "Initial Date": "7 Dec 2023",
+        "Venue": "CVPR'2024",
+        "Task": ["Image", "Video"],
+        "Resource": {
+            "Website": "https://www.shoufachen.com/gentron_website"
+        }
+    },
+    {
+        "Title": "PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis",
+        "Link": "https://arxiv.org/abs/2310.00426",
+        "Initial Date": "30 Sep 2023",
+        "Venue": "ICLR'2024",
+        "Task": ["Image"],
+        "Resource": {
+            "Website": "https://pixart-alpha.github.io/",
+            "Code": "https://github.com/PixArt-alpha/PixArt-alpha"
+        }
+    },
+    {
+        "Title": "VDT: General-purpose Video Diffusion Transformers via Mask Modeling",
+        "Link": "https://arxiv.org/abs/2305.13311",
+        "Initial Date": "22 May 2023",
+        "Venue": "ICLR'2024",
+        "Task": ["Video"],
+        "Resource": {
+            "Website": "https://vdt-2023.github.io/",
+            "Code": "https://github.com/RERV/VDT"
+        }
+    },
+    {
+        "Title": "Photorealistic Video Generation with Diffusion Models",
+        "Link": "https://arxiv.org/abs/2312.06662",
+        "Initial Date": "11 Dec 2023",
+        "Venue": "arXiv",
+        "Task": ["Video"],
+        "Resource": {
+            "Website": "https://walt-video-diffusion.github.io/"
+        }
+    },
+    {
+        "Title": "Latte: Latent Diffusion Transformer for Video Generation",
+        "Link": "https://arxiv.org/abs/2401.03048",
+        "Initial Date": "5 Jan 2024",
+        "Venue": "arXiv",
+        "Task": ["Video"],
+        "Resource": {
+            "Website": "https://maxin-cn.github.io/latte_project/",
+            "Code": "https://github.com/Vchitect/Latte"
+        }
+    },
+    {
+        "Title": "DiffiT: Diffusion Vision Transformers for Image Generation",
+        "Link": "https://arxiv.org/abs/2312.02139",
+        "Initial Date": "4 Dec 2023",
+        "Venue": "arXiv",
+        "Task": ["Image"],
+        "Resource": {
+            "Code": "https://github.com/NVlabs/DiffiT"
+        }
+    },
+    {
+        "Title": "DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation",
+        "Link": "https://arxiv.org/abs/2307.01831",
+        "Initial Date": "4 Jul 2023",
+        "Venue": "NeurIPS'2023",
+        "Task": ["3D"],
+        "Resource": {
+            "Website": "https://diffusion-transformers-3d.github.io/",
+            "Code": "https://github.com/DiT-3D/DiT-3D"
+        }
+    },
+    {
+        "Title": "Masked Diffusion Transformer is a Strong Image Synthesizer",
+        "Link": "https://arxiv.org/abs/2303.14389",
+        "Initial Date": "25 Mar 2023",
+        "Venue": "ICCV'2023",
+        "Task": ["Image"],
+        "Resource": {
+            "Code": "https://github.com/sail-sg/MDT"
+        }
+    },
+    {
+        "Title": "Fast Training of Diffusion Models with Masked Transformers",
+        "Link": "https://arxiv.org/abs/2306.09305",
+        "Initial Date": "15 Jun 2023",
+        "Venue": "TMLR",
+        "Task": ["Image"],
+        "Resource": {
+            "Code": "https://github.com/Anima-Lab/MaskDiT"
+        }
+    },
+    {
+        "Title": "Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation",
+        "Link": "https://arxiv.org/abs/2312.07231",
+        "Initial Date": "12 Dec 2023",
+        "Venue": "arXiv",
+        "Task": ["3D"],
+        "Resource": {
+            "Website": "https://dit-3d.github.io/FastDiT-3D/"
+        }
+    },
+    {
+        "Title": "FiT: Flexible Vision Transformer for Diffusion Model",
+        "Link": "https://arxiv.org/abs/2402.12376",
+        "Initial Date": "19 Feb 2024",
+        "Venue": "arXiv",
+        "Task": ["Image"],
+        "Resource": {
+            "Code": "https://github.com/whlzy/FiT"
+        }
+    },
+    {
+        "Title": "Exploring Vision Transformers as Diffusion Learners",
+        "Link": "https://arxiv.org/abs/2212.13771",
+        "Initial Date": "28 Dec 2022",
+        "Venue": "arXiv",
+        "Task": ["Image"],
+        "Resource": {
+        }
+    },
+    {
+        "Title": "Large-Vocabulary 3D Diffusion Model with Transformer",
+        "Link": "https://arxiv.org/abs/2309.07920",
+        "Initial Date": "14 Sep 2023",
+        "Venue": "ICLR'2024",
+        "Task": ["3D"],
+        "Resource": {
+            "Website": "https://ziangcao0312.github.io/difftf_pages/",
+            "Code": "https://github.com/ziangcao0312/DiffTF"
+        }
+    },
+    {
+        "Title": "ViT-TTS: Visual Text-to-Speech with Scalable Diffusion Transformer",
+        "Link": "https://arxiv.org/abs/2305.12708",
+        "Initial Date": "22 May 2023",
+        "Venue": "EMNLP'2023",
+        "Task": ["Speech"],
+        "Resource": {
+            "Website": "https://vit-tts.github.io/"
+        }
+    },
+    {
+        "Title": "U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech",
+        "Link": "https://arxiv.org/abs/2305.13195",
+        "Initial Date": "22 May 2023",
+        "Venue": "arXiv",
+        "Task": ["Speech"],
+        "Resource": {
+            "Website": "https://eihw.github.io/u-dit-tts/",
+            "Code": "https://github.com/EIHW/u-dit-tts"
+        }
+    },
+    {
+        "Title": "Dolfin: Diffusion Layout Transformers without Autoencoder",
+        "Link": "https://arxiv.org/abs/2310.16305",
+        "Initial Date": "25 Oct 2023",
+        "Venue": "arXiv",
+        "Task": ["Others"],
+        "Resource": {}
+    },
+    {
+        "Title": "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers",
+        "Link": "https://arxiv.org/abs/2401.08740",
+        "Initial Date": "16 Jan 2024",
+        "Venue": "arXiv",
+        "Task": ["Image"],
+        "Resource": {
+            "Website": "https://scalable-interpolant.github.io/",
+            "Code": "https://github.com/willisma/SiT"
+        }
+    },
+    {
+        "Title": "DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer",
+        "Link": "https://arxiv.org/abs/2303.03755",
+        "Initial Date": "7 Mar 2023",
+        "Venue": "ICCV'2023",
+        "Task": ["Others"],
+        "Resource": {
+            "Website": "https://wix-incubator.github.io/DLT/",
+            "Code": "https://github.com/wix-incubator/DLT"
+        }
+    },
+    {
+        "Title": "Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models",
+        "Link": "https://arxiv.org/abs/2309.08251",
+        "Initial Date": "15 Sep 2023",
+        "Venue": "arXiv",
+        "Task": ["Image"],
+        "Resource": {
+            "Website": "https://cartoondiff.github.io/",
+            "Code": "https://github.com/CartoonDiff/CartoonDiff"
+        }
+    },
+    {
+        "Title": "NViST: In the Wild New View Synthesis from a Single Image with Transformers",
+        "Link": "https://arxiv.org/abs/2312.08568",
+        "Initial Date": "13 Dec 2023",
+        "Venue": "arXiv",
+        "Task": ["Others"],
+        "Resource": {
+            "Website": "https://wbjang.github.io/nvist_webpage/"
+        }
+    },
+    {
+        "Title": "Diffusion Transformer for Adaptive Text-to-Speech",
+        "Link": "https://openreview.net/pdf?id=hRHX6XW9_Gu",
+        "Initial Date": "03 May 2023",
+        "Venue": "Interspeech'2023",
+        "Task": ["Speech"],
+        "Resource": {
+            "Website": "https://recherchetts.github.io/dit/"
+        }
+    },
+    {
+        "Title": "Cross-view Masked Diffusion Transformers for Person Image Synthesis",
+        "Link": "https://arxiv.org/abs/2402.01516",
+        "Initial Date": "2 Feb 2024",
+        "Venue": "arXiv",
+        "Task": ["Image"],
+        "Resource": {
+        }
+    },
+    {
+        "Title": "DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation",
+        "Link": "https://arxiv.org/abs/2402.06656",
+        "Initial Date": "5 Feb 2024",
+        "Venue": "arXiv",
+        "Task": ["Others"],
+        "Resource": {
+        }
+    },
+    {
+        "Title": "SDiT: Spiking Diffusion Model with Transformer",
+        "Link": "https://arxiv.org/abs/2402.11588",
+        "Initial Date": "18 Feb 2024",
+        "Venue": "arXiv",
+        "Task": ["Image"],
+        "Resource": {
+        }
+    },
+    {
+        "Title": "DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers",
+        "Link": "https://arxiv.org/abs/2312.06400",
+        "Initial Date": "11 Dec 2023",
+        "Venue": "arXiv",
+        "Task": ["Others"],
+        "Resource": {
+        }
+    },
+    {
+        "Title": "MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model",
+        "Link": "https://arxiv.org/abs/2208.15001",
+        "Initial Date": "31 Aug 2022",
+        "Venue": "TPAMI'2024",
+        "Task": ["Others"],
+        "Resource": {
+            "Website": "https://mingyuan-zhang.github.io/projects/MotionDiffuse.html",
+            "Code": "https://github.com/mingyuan-zhang/MotionDiffuse"
+        }
+    },
+    {
+        "Title": "PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models",
+        "Link": "https://arxiv.org/abs/2401.05252",
+        "Initial Date": "10 Jan 2024",
+        "Venue": "arXiv",
+        "Task": ["Image"],
+        "Resource": {
+            "Website": "https://pixart-alpha.github.io/",
+            "Code": "https://github.com/PixArt-alpha/PixArt-alpha"
+        }
+    },
+    {
+        "Title": "Sora",
+        "Link": "https://openai.com/research/video-generation-models-as-world-simulators",
+        "Initial Date": "15 Feb 2024",
+        "Venue": "OpenAI",
+        "Task": ["Image", "Video"],
+        "Resource": {
+            "Website": "https://openai.com/sora"
+        }
+    },
+    {
+        "Title": "Stable Diffusion 3",
+        "Link": "https://stability.ai/news/stable-diffusion-3",
+        "Initial Date": "22 Feb 2024",
+        "Venue": "Stability AI",
+        "Task": ["Image"],
+        "Resource": {
+            "Website": "https://stability.ai/news/stable-diffusion-3"
+        }
+    },
+    {
+        "Title": "TransDDPM: Transformer-Based Denoising Diffusion Probabilistic Model for Image Restoration",
+        "Link": "https://link.springer.com/chapter/10.1007/978-981-99-8552-4_20",
+        "Initial Date": "28 Dec 2023",
+        "Venue": "PRCV'2023",
+        "Task": ["Image"],
+        "Resource": {
+        }
+    },
+    {
+        "Title": "Mapache: Masked parallel transformer for advanced speech editing and synthesis",
+        "Link": "https://www.amazon.science/publications/mapache-masked-parallel-transformer-for-advanced-speech-editing-and-synthesis",
+        "Initial Date": "3 Dec 2023",
+        "Venue": "ICASSP'2024",
+        "Task": ["Speech"],
+        "Resource": {
+        }
+    },
+    {
+        "Title": "Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis",
+        "Link": "https://arxiv.org/abs/2402.14797",
+        "Initial Date": "22 Feb 2024",
+        "Venue": "arXiv",
+        "Task": ["Video"],
+        "Resource": {
+            "Website": "https://snap-research.github.io/snapvideo/"
+        }
+    },
+    {
+        "Title": "OpenDiT",
+        "Link": "https://github.com/NUS-HPC-AI-Lab/OpenDiT",
+        "Initial Date": "26 Feb 2024",
+        "Venue": "GitHub",
+        "Task": ["Image", "Video"],
+        "Resource": {
+            "Code": "https://github.com/NUS-HPC-AI-Lab/OpenDiT"
+        }
+    },
+    {
+        "Title": "FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes",
+        "Link": "https://arxiv.org/abs/2402.18331",
+        "Initial Date": "28 Feb 2024",
+        "Venue": "arXiv",
+        "Task": ["Image"],
+        "Resource": {
+            "Website": "https://finediffusion.github.io/",
+            "Code": "https://github.com/FineDiffusion/FineDiffusion"
+        }
+    },
+    {
+        "Title": "Open-Sora-Plan",
+        "Link": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
+        "Initial Date": "1 Mar 2024",
+        "Venue": "GitHub",
+        "Task": ["Video"],
+        "Resource": {
+            "Website": "https://pku-yuangroup.github.io/Open-Sora-Plan/",
+            "Code": "https://github.com/PKU-YuanGroup/Open-Sora-Plan"
+        }
+    }
+]

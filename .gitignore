@@ -1,0 +1,55 @@
+# Dependency directories
+node_modules/
+vendor/
+
+# Compiled source #
+###################
+/dist/
+/build/
+/css/*.min.css
+/js/*.min.js
+
+# Sass source files
+####################
+.sass-cache/
+*.sass
+*.scss
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files #
+################################
+.idea/
+.vscode/
+*.swp
+*~
+.project
+.settings/
+tmp/
+*.sublime-workspace
+
+# Environment files #
+#####################
+.env
+.env.local
+.env.example
+
+# Other files and directories to ignore #
+#########################################
+/cache/
+/temp/
+/htdocs/wp-content/uploads/

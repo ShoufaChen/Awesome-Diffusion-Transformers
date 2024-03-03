@@ -1,5 +1,5 @@
 
-# Awesome Diffusion Transformers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Diffusion Transformers](https://www.shoufachen.com/Awesome-Diffusion-Transformers/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 | Title | Initial Date | Venue | Task | Resource |
 | --- | --- | --- | --- | --- |
@@ -40,6 +40,8 @@
 | [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3) | 22 Feb 2024 | Stability AI | ![](./assets/image.svg) | [![](./assets/website.svg)](https://stability.ai/news/stable-diffusion-3) | 
 | [Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis](https://arxiv.org/abs/2402.14797) | 22 Feb 2024 | arXiv | ![](./assets/video.svg) | [![](./assets/website.svg)](https://snap-research.github.io/snapvideo/) | 
 | [OpenDiT](https://github.com/NUS-HPC-AI-Lab/OpenDiT) | 26 Feb 2024 | GitHub | ![](./assets/image.svg) ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/NUS-HPC-AI-Lab/OpenDiT) | 
+| [FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes](https://arxiv.org/abs/2402.18331) | 28 Feb 2024 | arXiv | ![](./assets/image.svg) | [![](./assets/website.svg)](https://finediffusion.github.io/) [![](./assets/code.svg)](https://github.com/FineDiffusion/FineDiffusion) | 
+| [Open-Sora-Plan](https://pku-yuangroup.github.io/Open-Sora-Plan/) | 01 Mar 2024 | GitHub | ![](./assets/video.svg) | [![](./assets/website.svg)](https://pku-yuangroup.github.io/Open-Sora-Plan/) [![](./assets/code.svg)](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | 
 
 
 ## Contributing

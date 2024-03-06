@@ -337,6 +337,16 @@
         }
     },
     {
+        "Title": "Stable Diffusion 3: Research Paper",
+        "Link": "https://stability.ai/news/stable-diffusion-3-research-paper/",
+        "Initial Date": "5 Mar 2024",
+        "Venue": "Stability AI",
+        "Task": ["Image"],
+        "Resource": {
+            "Website": "https://stability.ai/news/stable-diffusion-3-research-paper/",
+        }
+    },
+    {
         "Title": "TransDDPM: Transformer-Based Denoising Diffusion Probabilistic Model for Image Restoration",
         "Link": "https://link.springer.com/chapter/10.1007/978-981-99-8552-4_20",
         "Initial Date": "28 Dec 2023",

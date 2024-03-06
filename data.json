@@ -327,16 +327,6 @@
         }
     },
     {
-        "Title": "Stable Diffusion 3",
-        "Link": "https://stability.ai/news/stable-diffusion-3",
-        "Initial Date": "22 Feb 2024",
-        "Venue": "Stability AI",
-        "Task": ["Image"],
-        "Resource": {
-            "Website": "https://stability.ai/news/stable-diffusion-3"
-        }
-    },
-    {
         "Title": "Stable Diffusion 3: Research Paper",
         "Link": "https://stability.ai/news/stable-diffusion-3-research-paper/",
         "Initial Date": "5 Mar 2024",
